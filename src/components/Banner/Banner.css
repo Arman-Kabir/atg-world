@@ -1,0 +1,21 @@
+.banner-container{
+    height: 440px;
+    /* background:#000 url('../../../public/heroImage.png'); */
+    position: relative;
+    /* background: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%); */
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%), url('../../../public/heroImage.png');
+}
+.hero-text{
+    position: absolute;
+    top: 286px;
+    left: 200px;
+}
+.hero-title{
+    color: #FFF;
+    font-weight: 700;
+}
+.hero-caption{
+    color: #FFF;
+    font-weight: 400;
+}
+

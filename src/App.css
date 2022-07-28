@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #E5E5E5 ;
+  font-family: 'IBM Plex Sans', sans-serif;
+  box-sizing: border-box;
 }
 
 .App-logo {
